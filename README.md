@@ -1,7 +1,7 @@
 <!-- Profil GitHub — AmDrouin — cadre unique dynamique -->
 
 <p align="center">
-  <img src="https://profile-frame-five.vercel.app/api?username=AmDrouin" alt="Profil AmDrouin" width="850"/>
+  <img src="https://profile-frame-sandy.vercel.app/api?username=AmDrouin" alt="Profil AmDrouin" width="850"/>
 </p>
 
 <p align="center">
