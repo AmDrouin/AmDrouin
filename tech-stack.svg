@@ -1,0 +1,48 @@
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack technique">
+  <style>
+    text{font-family:"JetBrains Mono","Courier New",monospace;fill:#a89984}
+    .title{font-size:13px;font-weight:700;letter-spacing:3px;fill:#fabd2f}
+    .lbl{font-size:11px;text-anchor:middle}
+    .ic{font-size:15px;font-weight:800;fill:#282828;text-anchor:middle}
+  </style>
+  <rect x="0" y="0" width="800" height="150" rx="14" fill="#282828" stroke="#504945" stroke-width="1.5"/>
+  <text class="title" x="26" y="34">## STACK</text>
+
+  <!-- 8 tuiles -->
+  <g>
+    <!-- x positions: 26,120,214,308,402,496,590,684 (width 90, gap 4) -->
+    <!-- tile template repeated -->
+    <g>
+      <rect x="26"  y="52" width="86" height="72" rx="12" fill="#32302f" stroke="#665c54" stroke-width="1"/>
+      <rect x="55"  y="66" width="28" height="28" rx="8" fill="#fabd2f"/><text class="ic" x="69"  y="86">TS</text><text class="lbl" x="69"  y="112">TypeScript</text>
+    </g>
+    <g>
+      <rect x="120" y="52" width="86" height="72" rx="12" fill="#32302f" stroke="#665c54" stroke-width="1"/>
+      <rect x="149" y="66" width="28" height="28" rx="8" fill="#fe8019"/><text class="ic" x="163" y="86">C</text><text class="lbl" x="163" y="112">C</text>
+    </g>
+    <g>
+      <rect x="214" y="52" width="86" height="72" rx="12" fill="#32302f" stroke="#665c54" stroke-width="1"/>
+      <rect x="243" y="66" width="28" height="28" rx="8" fill="#b8bb26"/><text class="ic" x="257" y="86">Lu</text><text class="lbl" x="257" y="112">Lua</text>
+    </g>
+    <g>
+      <rect x="308" y="52" width="86" height="72" rx="12" fill="#32302f" stroke="#665c54" stroke-width="1"/>
+      <rect x="337" y="66" width="28" height="28" rx="8" fill="#8ec07c"/><text class="ic" x="351" y="86">Go</text><text class="lbl" x="351" y="112">Go</text>
+    </g>
+    <g>
+      <rect x="402" y="52" width="86" height="72" rx="12" fill="#32302f" stroke="#665c54" stroke-width="1"/>
+      <rect x="431" y="66" width="28" height="28" rx="8" fill="#83a598"/><text class="ic" x="445" y="86">No</text><text class="lbl" x="445" y="112">Node.js</text>
+    </g>
+    <g>
+      <rect x="496" y="52" width="86" height="72" rx="12" fill="#32302f" stroke="#665c54" stroke-width="1"/>
+      <rect x="525" y="66" width="28" height="28" rx="8" fill="#d3869b"/><text class="ic" x="539" y="86">Py</text><text class="lbl" x="539" y="112">Python</text>
+    </g>
+    <g>
+      <rect x="590" y="52" width="86" height="72" rx="12" fill="#32302f" stroke="#665c54" stroke-width="1"/>
+      <rect x="619" y="66" width="28" height="28" rx="8" fill="#fabd2f"/><text class="ic" x="633" y="86">Do</text><text class="lbl" x="633" y="112">Docker</text>
+    </g>
+    <g>
+      <rect x="684" y="52" width="86" height="72" rx="12" fill="#32302f" stroke="#665c54" stroke-width="1"/>
+      <rect x="713" y="66" width="28" height="28" rx="8" fill="#fe8019"/><text class="ic" x="727" y="86">Pg</text><text class="lbl" x="727" y="112">Postgres</text>
+    </g>
+  </g>
+</svg>

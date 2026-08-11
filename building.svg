@@ -1,0 +1,23 @@
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="En ce moment">
+  <style>
+    text{font-family:"JetBrains Mono","Courier New",monospace}
+    .title{font-size:13px;font-weight:700;letter-spacing:3px;fill:#fabd2f}
+    .h{font-size:17px;font-weight:800;fill:#ebdbb2}
+    .p{font-size:13px;fill:#a89984}
+    .note{font-size:11px;fill:#928374}
+    .glyph{font-size:22px;font-weight:800;fill:#282828}
+  </style>
+  <rect x="0" y="0" width="800" height="150" rx="14" fill="#282828" stroke="#504945" stroke-width="1.5"/>
+  <text class="title" x="26" y="34">## EN CE MOMENT</text>
+
+  <rect x="26" y="50" width="46" height="46" rx="12" fill="#fabd2f"/>
+  <text class="glyph" x="49" y="80" text-anchor="middle">▹</text>
+
+  <text class="h" x="88" y="66">En train de construire</text>
+  <text class="p" x="88" y="88">Un moteur de rendu SVG pour des bannières de profil dynamiques.</text>
+
+  <!-- barre de progression -->
+  <rect x="88" y="104" width="686" height="8" rx="4" fill="#3c3836"/>
+  <rect x="88" y="104" width="466" height="8" rx="4" fill="#fe8019"/>
+  <text class="note" x="88" y="130">68% — sortie prevue ce mois-ci</text>
+</svg>

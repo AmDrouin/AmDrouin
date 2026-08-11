@@ -1,0 +1,12 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Citation">
+  <style>
+    text{font-family:"JetBrains Mono","Courier New",monospace}
+    .mark{font-size:44px;font-weight:800;fill:#fe8019}
+    .q{font-size:18px;font-weight:700;fill:#ebdbb2}
+    .by{font-size:12px;fill:#928374}
+  </style>
+  <rect x="0" y="0" width="800" height="120" rx="14" fill="#282828" stroke="#504945" stroke-width="1.5"/>
+  <text class="mark" x="30" y="62">"</text>
+  <text class="q" x="66" y="52">Le meilleur code est celui qu'on n'a pas eu besoin d'ecrire.</text>
+  <text class="by" x="66" y="82">— une conviction qui guide chacun de mes projets</text>
+</svg>
