@@ -22,10 +22,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmDrouin&theme=gruvbox&hide_border=true" alt="Série" width="500"/>
 </p>
 
-<p align="center">
-  <img src="./quote.svg" alt="Citation" width="800"/>
-</p>
-
 <!-- ── Liens ── -->
 <p align="center">
   <a href="https://github.com/AmDrouin"><img src="https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=fabd2f" alt="GitHub"/></a>
