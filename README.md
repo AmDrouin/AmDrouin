@@ -14,8 +14,8 @@
 
 <!-- Stats + top langages — DYNAMIQUE (instance perso AmDrouin, jamais rate-limitée) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats-belge-rho-30.vercel.app/api?username=AmDrouin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats-belge-rho-30.vercel.app/api/top-langs/?username=AmDrouin&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top langages"/>
+  <img height="170" src="https://github-readme-stats-ad-drouin.vercel.app/api?username=AmDrouin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats-ad-drouin.vercel.app/api/top-langs/?username=AmDrouin&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top langages"/>
 </p>
 
 <!-- Serie de contributions — DYNAMIQUE -->
