@@ -33,7 +33,7 @@
   <text class="init" x="97" y="119" text-anchor="middle">VP</text>
 
   <!-- texte -->
-  <text class="handle" x="185" y="66">$ whoami — @VOTREPSEUDO</text>
-  <text class="name" x="182" y="114">VotreNom</text>
+  <text class="handle" x="185" y="66">$ whoami — @AmDrouin</text>
+  <text class="name" x="182" y="114">AmDrouin</text>
   <text class="tag" x="185" y="146">~/building --with typescript<tspan class="cursor" dx="4">▌</tspan></text>
 </svg>
