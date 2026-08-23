@@ -8,7 +8,6 @@
 
 - **Reconversion assumée :** après un Master 1 Histoire (Nantes), formation intensive en développement à 42 Angoulême.
 - **Recherche active :** alternance RNCP 7 (contrat de professionnalisation, 2 ans) à partir d'avril ou septembre 2026.
-- **Terrain solide :** expériences en caisse et intérim multi-secteurs — autonomie, rigueur, gestion des priorités.
 - **Mobilité :** basé à Angoulême, disponible sur Avignon prochainement.
 
 <p align="center">
@@ -44,6 +43,9 @@ Réseau social autour de la critique de films : base de données, authentificati
 
 ### [Inception](https://github.com/AmDrouin/Inception) — Shell / Docker
 Infrastructure applicative conteneurisée avec Docker, services multi-conteneurs.
+
+### [Lem-in](https://github.com/AmDrouin/42-Lem-in) — C - Python
+Algorithme des graphes, de flot de coût minimum. Optimisation d'un programme
 
 ## Statistiques GitHub
 
