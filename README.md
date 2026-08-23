@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  <img src="./badges.svg" alt="Langages" width="560"/>
+  <img src="./badges.svg" alt="Langages" width="800"/>
 </p>

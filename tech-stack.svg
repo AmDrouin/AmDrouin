@@ -5,7 +5,7 @@
     .lbl{font-size:11px;text-anchor:middle}
     .ic{font-size:15px;font-weight:800;fill:#282828;text-anchor:middle}
   </style>
-  <rect x="0" y="0" width="800" height="150" rx="14" fill="#282828" stroke="#504945" stroke-width="1.5"/>
+  <rect x="0" y="0" width="800" height="150" rx="14" fill="#282828" stroke="#fe8019" stroke-width="1.5"/>
   <text class="title" x="26" y="34">## STACK</text>
 
   <!-- 8 tuiles -->
