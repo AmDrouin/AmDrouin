@@ -13,7 +13,7 @@
     <linearGradient id="av" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#fabd2f"/><stop offset="1" stop-color="#d65d0e"/>
     </linearGradient>
-    <clipPath id="ac"><circle cx="97" cy="107" r="52"/></clipPath>
+    <clipPath id="ac"><rect x="45" y="55" width="104" height="104" rx="14"/></clipPath>
   </defs>
 
   <rect x="0" y="0" width="800" height="230" rx="12" fill="#1d2021"/>
@@ -25,8 +25,8 @@
   <circle cx="80" cy="40" r="5" fill="#b8bb26"/>
 
   <!-- avatar -->
-  <circle cx="97" cy="107" r="55" fill="none" stroke="#fabd2f" stroke-width="2.5"/>
-  <circle cx="97" cy="107" r="52" fill="url(#av)"/>
+  <rect x="42" y="52" width="110" height="110" rx="16" fill="none" stroke="#fe8019" stroke-width="2.5"/>
+  <rect x="45" y="55" width="104" height="104" rx="14" fill="url(#av)"/>
   <!-- AVATAR_IMAGE : décommente + colle ton base64, puis supprime le <text class="init">
   <image clip-path="url(#ac)" x="45" y="55" width="104" height="104" href="data:image/jpeg;base64,COLLE_ICI" preserveAspectRatio="xMidYMid slice"/>
   -->
