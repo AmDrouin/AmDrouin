@@ -7,14 +7,12 @@
   <rect x="0" y="0" width="800" height="150" rx="14" fill="#282828" stroke="#fe8019" stroke-width="1.5"/>
   <text class="title" x="26" y="34">## LANGAGES</text>
 
-  <!-- pills : x, largeur ajustés au texte -->
   <g>
-    <rect x="26"  y="60" width="104" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="78"  y="82">TypeScript</text>
-    <rect x="140" y="60" width="52"  height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="166" y="82">C</text>
-    <rect x="202" y="60" width="64"  height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="234" y="82">Lua</text>
-    <rect x="276" y="60" width="60"  height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="306" y="82">Go</text>
-    <rect x="346" y="60" width="90"  height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="391" y="82">Makefile</text>
-    <rect x="446" y="60" width="64"  height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="478" y="82">Bash</text>
-    <rect x="520" y="60" width="60"  height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="550" y="82">CSS</text>
+    <rect x="26"  y="60" width="52" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="52"  y="82">C</text>
+    <rect x="92"  y="60" width="70" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="127" y="82">C++</text>
+    <rect x="176" y="60" width="96" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="224" y="82">Python</text>
+    <rect x="286" y="60" width="104" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="338" y="82">TypeScript</text>
+    <rect x="404" y="60" width="84" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="446" y="82">Shell</text>
+    <rect x="502" y="60" width="96" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="550" y="82">Docker</text>
   </g>
 </svg>

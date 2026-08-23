@@ -18,6 +18,6 @@
 
   <!-- texte -->
   <text class="handle" x="26" y="66">$ whoami — @AmDrouin</text>
-  <text class="name" x="24" y="102">AmDrouin</text>
-  <text class="tag" x="26" y="128">~/building --with typescript<tspan class="cursor" dx="4">▌</tspan></text>
+  <text class="name" x="24" y="102">Amaury DROUIN</text>
+  <text class="tag" x="26" y="128">~/42angouleme --search alternance-rncp7<tspan class="cursor" dx="4">▌</tspan></text>
 </svg>
