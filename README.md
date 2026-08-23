@@ -32,11 +32,8 @@
 
 ## Projets phares
 
-### [Minishell](https://github.com/AmDrouin/Minishell) — C
-Reproduction d'un shell Unix : parsing, pipes, redirections et built-ins, sans bibliothèque externe.
-
-### [Ft_IRC](https://github.com/AmDrouin/Ft_IRC) — C++
-Serveur IRC conforme à la RFC 2812, développé en C++98 avec gestion bas niveau des sockets et du multiplexage.
+### [Lem-in](https://github.com/AmDrouin/42-Lem-in) — C - Python
+Algorithme des graphes, de flot de coût minimum. Optimisation d'un programme
 
 ### [Judge](https://github.com/AmDrouin/Judge) — TypeScript
 Réseau social autour de la critique de films : base de données, authentification par tokens, WebSocket, design responsive.
@@ -44,8 +41,11 @@ Réseau social autour de la critique de films : base de données, authentificati
 ### [Inception](https://github.com/AmDrouin/Inception) — Shell / Docker
 Infrastructure applicative conteneurisée avec Docker, services multi-conteneurs.
 
-### [Lem-in](https://github.com/AmDrouin/42-Lem-in) — C - Python
-Algorithme des graphes, de flot de coût minimum. Optimisation d'un programme
+### [Minishell](https://github.com/AmDrouin/Minishell) — C
+Reproduction d'un shell Unix : parsing, pipes, redirections et built-ins, sans bibliothèque externe.
+
+### [Ft_IRC](https://github.com/AmDrouin/Ft_IRC) — C++
+Serveur IRC conforme à la RFC 2812, développé en C++98 avec gestion bas niveau des sockets et du multiplexage.
 
 ## Statistiques GitHub
 
