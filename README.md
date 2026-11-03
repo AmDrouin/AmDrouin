@@ -67,4 +67,4 @@ Passionné de cinématographie — d'où **Judge**, mon projet de réseau social
 - **LinkedIn :** [adrouinn](https://www.linkedin.com/in/adrouinn/)
 - **GitHub :** [@AmDrouin](https://github.com/AmDrouin)
 - **Email :** [amaury.d.pro@proton.me](mailto:amaury.d.pro@proton.me)
-- **Localisation :** Angoulême (16) — Avignon prochainement
+- **Localisation :** Paris
