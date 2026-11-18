@@ -1,3 +1,4 @@
+
 <svg width="800" height="210" viewBox="0 0 800 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Langages et technologies">
   <style>
     text {
@@ -12,7 +13,6 @@
     .pill {
       font-size: 13px;
       font-weight: 700;
-      fill: #ebdbb2;
       text-anchor: middle;
     }
   </style>
@@ -22,45 +22,50 @@
 
   <text class="title" x="26" y="34">## LANGAGES &amp; TECHNOLOGIES</text>
 
-  <!-- Première ligne -->
+  <!-- Langages et outils -->
   <g>
-    <rect x="26" y="60" width="52" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="52" y="82">C</text>
+    <rect x="26" y="60" width="52" height="34" rx="6" fill="#283747" stroke="#3498db"/>
+    <text class="pill" x="52" y="82" fill="#5dade2">C</text>
 
-    <rect x="92" y="60" width="70" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="127" y="82">C++</text>
+    <rect x="92" y="60" width="70" height="34" rx="6" fill="#3e3528" stroke="#f0a500"/>
+    <text class="pill" x="127" y="82" fill="#f4c542">C++</text>
 
-    <rect x="176" y="60" width="96" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="224" y="82">Python</text>
+    <rect x="176" y="60" width="96" height="34" rx="6" fill="#263b50" stroke="#3776ab"/>
+    <text class="pill" x="224" y="82" fill="#ffd43b">Python</text>
 
-    <rect x="286" y="60" width="104" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="338" y="82">TypeScript</text>
+    <rect x="286" y="60" width="104" height="34" rx="6" fill="#283747" stroke="#3178c6"/>
+    <text class="pill" x="338" y="82" fill="#5da9f6">TypeScript</text>
 
-    <rect x="404" y="60" width="84" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="446" y="82">Shell</text>
+    <rect x="404" y="60" width="84" height="34" rx="6" fill="#3b3028" stroke="#e67e22"/>
+    <text class="pill" x="446" y="82" fill="#e6a15c">Shell</text>
 
-    <rect x="502" y="60" width="96" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="550" y="82">Docker</text>
+    <rect x="502" y="60" width="96" height="34" rx="6" fill="#263b50" stroke="#2496ed"/>
+    <text class="pill" x="550" y="82" fill="#56b4f5">Docker</text>
 
-    <rect x="612" y="60" width="150" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="687" y="82">Kubernetes</text>
+    <rect x="612" y="60" width="150" height="34" rx="6" fill="#283747" stroke="#3976a8"/>
+    <text class="pill" x="687" y="82" fill="#5da9e9">Kubernetes</text>
   </g>
 
-  <!-- Deuxième ligne -->
+  <!-- Web, base de données et bas niveau -->
   <g>
-    <rect x="26" y="112" width="110" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="81" y="134">Assembly</text>
+    <rect x="26" y="112" width="110" height="34" rx="6" fill="#3d3028" stroke="#e67e22"/>
+    <text class="pill" x="81" y="134" fill="#f0a15a">Assembly</text>
 
-    <rect x="150" y="112" width="76" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="188" y="134">SQL</text>
+    <rect x="150" y="112" width="76" height="34" rx="6" fill="#303747" stroke="#9b8bd4"/>
+    <text class="pill" x="188" y="134" fill="#b4a0f5">SQL</text>
 
-    <rect x="240" y="112" width="120" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="300" y="134">PostgreSQL</text>
+    <rect x="240" y="112" width="120" height="34" rx="6" fill="#263b50" stroke="#336791"/>
+    <text class="pill" x="300" y="134" fill="#6ba5d7">PostgreSQL</text>
 
-    <rect x="374" y="112" width="116" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="432" y="134">Tailwind CSS</text>
+    <rect x="374" y="112" width="116" height="34" rx="6" fill="#263747" stroke="#38bdf8"/>
+    <text class="pill" x="432" y="134" fill="#38bdf8">Tailwind CSS</text>
 
-    <rect x="504" y="112" width="90" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
-    <text class="pill" x="549" y="134">React</text>
+    <rect x="504" y="112" width="90" height="34" rx="6" fill="#263b3c" stroke="#61dafb"/>
+    <text class="pill" x="549" y="134" fill="#61dafb">React</text>
   </g>
+
+  <!-- Décoration -->
+  <circle cx="746" cy="175" r="4" fill="#fabd2f"/>
+  <circle cx="760" cy="175" r="4" fill="#fe8019"/>
+  <circle cx="774" cy="175" r="4" fill="#b8bb26"/>
 </svg>
