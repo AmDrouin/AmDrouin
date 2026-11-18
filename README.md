@@ -17,10 +17,6 @@
 ## Compétences techniques
 
 <p align="center">
-  <img src="./tech-stack.svg" alt="Stack technique" width="800"/>
-</p>
-
-<p align="center">
   <img src="./badges.svg" alt="Langages" width="800"/>
 </p>
 
