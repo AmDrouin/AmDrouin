@@ -45,10 +45,7 @@ Serveur IRC conforme à la RFC 2812, développé en C++98 avec gestion bas nivea
 
 ## Statistiques GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-ad-drouin.vercel.app/api?username=AmDrouin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats-ad-drouin.vercel.app/api/top-langs/?username=AmDrouin&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" alt="Top langages"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmDrouin&theme=gruvbox&hide_border=true" alt="Série" width="500"/>
