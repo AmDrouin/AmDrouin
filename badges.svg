@@ -64,8 +64,4 @@
     <text class="pill" x="549" y="134" fill="#61dafb">React</text>
   </g>
 
-  <!-- Décoration -->
-  <circle cx="746" cy="175" r="4" fill="#fabd2f"/>
-  <circle cx="760" cy="175" r="4" fill="#fe8019"/>
-  <circle cx="774" cy="175" r="4" fill="#b8bb26"/>
 </svg>
