@@ -1,18 +1,66 @@
-<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Langages">
+<svg width="800" height="210" viewBox="0 0 800 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Langages et technologies">
   <style>
-    text{font-family:"JetBrains Mono","Courier New",monospace}
-    .title{font-size:13px;font-weight:700;letter-spacing:3px;fill:#fabd2f}
-    .pill{font-size:13px;font-weight:700;fill:#ebdbb2;text-anchor:middle}
+    text {
+      font-family: "JetBrains Mono", "Courier New", monospace;
+    }
+    .title {
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      fill: #fabd2f;
+    }
+    .pill {
+      font-size: 13px;
+      font-weight: 700;
+      fill: #ebdbb2;
+      text-anchor: middle;
+    }
   </style>
-  <rect x="4" y="4" width="792" height="142" rx="22" fill="#282828" stroke="#fe8019" stroke-width="6"/>
-  <text class="title" x="26" y="34">## LANGAGES</text>
 
+  <rect x="4" y="4" width="792" height="202" rx="22"
+        fill="#282828" stroke="#fe8019" stroke-width="6"/>
+
+  <text class="title" x="26" y="34">## LANGAGES &amp; TECHNOLOGIES</text>
+
+  <!-- Première ligne -->
   <g>
-    <rect x="26"  y="60" width="52" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="52"  y="82">C</text>
-    <rect x="92"  y="60" width="70" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="127" y="82">C++</text>
-    <rect x="176" y="60" width="96" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="224" y="82">Python</text>
-    <rect x="286" y="60" width="104" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="338" y="82">TypeScript</text>
-    <rect x="404" y="60" width="84" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="446" y="82">Shell</text>
-    <rect x="502" y="60" width="96" height="34" rx="6" fill="#32302f" stroke="#665c54"/><text class="pill" x="550" y="82">Docker</text>
+    <rect x="26" y="60" width="52" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="52" y="82">C</text>
+
+    <rect x="92" y="60" width="70" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="127" y="82">C++</text>
+
+    <rect x="176" y="60" width="96" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="224" y="82">Python</text>
+
+    <rect x="286" y="60" width="104" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="338" y="82">TypeScript</text>
+
+    <rect x="404" y="60" width="84" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="446" y="82">Shell</text>
+
+    <rect x="502" y="60" width="96" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="550" y="82">Docker</text>
+
+    <rect x="612" y="60" width="150" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="687" y="82">Kubernetes</text>
+  </g>
+
+  <!-- Deuxième ligne -->
+  <g>
+    <rect x="26" y="112" width="110" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="81" y="134">Assembly</text>
+
+    <rect x="150" y="112" width="76" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="188" y="134">SQL</text>
+
+    <rect x="240" y="112" width="120" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="300" y="134">PostgreSQL</text>
+
+    <rect x="374" y="112" width="116" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="432" y="134">Tailwind CSS</text>
+
+    <rect x="504" y="112" width="90" height="34" rx="6" fill="#32302f" stroke="#665c54"/>
+    <text class="pill" x="549" y="134">React</text>
   </g>
 </svg>
